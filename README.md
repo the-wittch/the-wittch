@@ -19,6 +19,7 @@
 |---------|-------------|
 | [ente-cli](https://github.com/the-wittch/ente-cli) | Ente CLI with cron support |
 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Build & Push](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml/badge.svg?branch=main)](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml)
 
 ## Windows Projects
