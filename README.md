@@ -1,27 +1,31 @@
 ## CTRLD Projects
-- [CTRLD Sync](https://github.com/its-null/ctrld-sync):
-  Small utility to import JSON folders (hagezi) into ControlD.
-  
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)[![Ctrld Sync](https://github.com/its-null/ctrld-sync/actions/workflows/controld-sync.yml/badge.svg)](https://github.com/its-null/ctrld-sync/actions/workflows/controld-sync.yml)
+
+| Project | Description |
+|---------|-------------|
+| [CTRLD Sync](https://github.com/the-wittch/ctrld-sync) | Import JSON folders (Hagezi) into ControlD |
+
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/the-wittch/ctrld-sync)
+[![CI](https://github.com/the-wittch/ctrld-sync/actions/workflows/controld-sync.yml/badge.svg)](https://github.com/the-wittch/ctrld-sync/actions/workflows/controld-sync.yml)
 
 ## Docker
-- [ente-cli](https://github.com/the-wittch/ente-cli):
-  Ente-cli with cron support
 
-  [![Build and Push to Docker Hub](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml/badge.svg?branch=main)](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml)
+| Project | Description |
+|---------|-------------|
+| [ente-cli](https://github.com/the-wittch/ente-cli) | Ente CLI with cron support |
+
+[![Build & Push](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml/badge.svg?branch=main)](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml)
 
 ## Windows Projects
 
-- [SCCM Helpers](https://github.com/its-null/SCCM-Helpers):
-  Modules and scripts I have created to assist with working with SCCM.
-- [Windows Utilities](https://github.com/its-null/Windows-Utilities):
-  Windows and AD Tools for Sysadmins
-- [PowerShell Modules](https://github.com/its-null/Powershell-Modules):
-  Custom PowerShell modules I have written that integrate into my other scripts
-- [O365 Utilities](https://github.com/its-null/Office-365-Utilities):
-  Office 365 Utility Scripts for cleaning and fixing odd behavior.
+| Project | Description |
+|---------|-------------|
+| [SCCM Helpers](https://github.com/the-wittch/SCCM-Helpers) | Modules and scripts for working with SCCM |
+| [Windows Utilities](https://github.com/the-wittch/Windows-Utilities) | Windows and AD tools for sysadmins |
+| [PowerShell Modules](https://github.com/the-wittch/Powershell-Modules) | Custom PowerShell modules used across other scripts |
+| [O365 Utilities](https://github.com/the-wittch/Office-365-Utilities) | Office 365 scripts for cleaning up and fixing odd behavior |
 
 ## PowerShell Projects
 
-- [Wasp AssetCloud Module](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud):
-  Module to interact with Wasp AssetCloud via command line.
+| Project | Description |
+|---------|-------------|
+| [Wasp AssetCloud Module](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud) | Interact with Wasp AssetCloud via the command line |   
