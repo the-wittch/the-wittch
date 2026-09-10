@@ -39,4 +39,4 @@
 
 ---
 
-![the-wittch's GitHub stats](https://github-stats-extended.vercel.app/api?username=the-wittch&show_icons=true&hide_border=true&theme=synthwave)   
+![the-wittch's GitHub stats](https://github-stats-extended.vercel.app/api?username=the-wittch&show_icons=true&hide_border=true&theme=synthwave&custom_title=My+Stats&hide_rank=true&ring_color=ff6b00)
