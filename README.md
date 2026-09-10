@@ -4,6 +4,12 @@
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) * [![Ctrld Sync](https://github.com/its-null/ctrld-sync/actions/workflows/controld-sync.yml/badge.svg)](https://github.com/its-null/ctrld-sync/actions/workflows/controld-sync.yml)
 
+## Docker
+- [ente-cli](https://github.com/the-wittch/ente-cli):
+  Ente-cli with cron support
+
+  [![Build and Push to Docker Hub](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml/badge.svg?branch=main)](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml)
+
 ## Windows Projects
 
 - [SCCM Helpers](https://github.com/its-null/SCCM-Helpers):
