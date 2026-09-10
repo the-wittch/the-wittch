@@ -2,7 +2,7 @@
 - [CTRLD Sync](https://github.com/its-null/ctrld-sync):
   Small utility to import JSON folders (hagezi) into ControlD.
   
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) * [![Ctrld Sync](https://github.com/its-null/ctrld-sync/actions/workflows/controld-sync.yml/badge.svg)](https://github.com/its-null/ctrld-sync/actions/workflows/controld-sync.yml)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)[![Ctrld Sync](https://github.com/its-null/ctrld-sync/actions/workflows/controld-sync.yml/badge.svg)](https://github.com/its-null/ctrld-sync/actions/workflows/controld-sync.yml)
 
 ## Docker
 - [ente-cli](https://github.com/the-wittch/ente-cli):
