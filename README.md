@@ -36,3 +36,5 @@
 | Project | Description |
 |---------|-------------|
 | [Wasp AssetCloud Module](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud) | Interact with Wasp AssetCloud via the command line |   
+
+![the-wittch's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-wittch&show_icons=true&hide_border=true&theme=synthwave)
