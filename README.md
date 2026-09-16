@@ -8,7 +8,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [CTRLD Sync](https://github.com/the-wittch/controld_sync) | Import JSON folders (Hagezi) into ControlD |
+| [CTRLD Sync](https://github.com/the-wittch/controld-sync) | Import JSON folders (Hagezi) into ControlD |
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/the-wittch/ctrld-sync)
 [![CI](https://github.com/the-wittch/controld_sync/actions/workflows/controld-sync.yml/badge.svg)](https://github.com/the-wittch/controld_sync/actions/workflows/controld-sync.yml)
