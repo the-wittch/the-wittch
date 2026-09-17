@@ -40,4 +40,4 @@
 ---
 
 > [!NOTE]
-> 🌸 **Shout-out** to [mrus](https://github.com/mrusme) at [マリウス](https://マリウス.com/) for all the inspiration and reigniting my curiosity for tech <3 
+> 🌸 **Shout-out** to [mrus](https://github.com/mrusme) at [マリウス](https://マリウス.com/) for all the inspiration and reigniting my curiosity for tech 🐇
