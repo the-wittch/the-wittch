@@ -22,6 +22,12 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Build & Push](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml/badge.svg?branch=main)](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml)
 
+## Guides
+
+- [Control D Guide](https://the-wittch.github.io/Control-D-Guide/) – Beginner-friendly guide to DNS filtering with Control D
+
+---   
+
 ## Windows Projects
 
 | Project | Description |
