@@ -36,3 +36,8 @@
 | Project | Description |
 |---------|-------------|
 | [Wasp AssetCloud Module](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud) | Interact with Wasp AssetCloud via the command line |   
+
+---
+
+> [!NOTE]
+> 🌸 **Shout-out** to [mrus](https://マリウス.com/) for all the inspiration and reigniting my curiosity for tech <3   
