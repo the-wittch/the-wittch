@@ -16,12 +16,6 @@
 |---------|-------------|-----|
 | [ente-cli](https://github.com/the-wittch/ente-cli) | Ente CLI with cron support | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/ente-cli/docker.yml?branch=main&style=flat-square&label=CI)](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml) |
 
-## Guides
-
-- [Control D Guide](https://the-wittch.github.io/Control-D-Guide/) – Beginner-friendly guide to DNS filtering with Control D
-
----
-
 ## Windows Projects
 
 | Project | Description | CI |
@@ -33,6 +27,12 @@
 | Project | Description | CI |
 |---------|-------------|-----|
 | [Wasp AssetCloud Module](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud) | Interact with Wasp AssetCloud via the command line | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/Wittch.PSModule.WaspAssetCloud/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud/actions/workflows/ci.yml) |
+
+## Guides
+
+| Guide | Description |
+|-------|-------------|
+| [Control D Guide](https://the-wittch.github.io/Control-D-Guide/) | Beginner-friendly setup notes for Control D, filters, and Hagezi |
 
 ---
 
