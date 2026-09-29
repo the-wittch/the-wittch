@@ -27,6 +27,7 @@
 | Project | Description | CI |
 |---------|-------------|-----|
 | [Wasp AssetCloud Module](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud) | Interact with Wasp AssetCloud via the command line | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/Wittch.PSModule.WaspAssetCloud/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud/actions/workflows/ci.yml) |
+| [PSForge](https://github.com/the-wittch/psforge) | Scaffold production-ready PowerShell modules | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/psforge/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/the-wittch/psforge/actions/workflows/ci.yml) |
 
 ## Guides
 
