@@ -10,8 +10,8 @@
 |---------|-------------|
 | [CTRLD Sync](https://github.com/the-wittch/controld-sync) | Import JSON folders (Hagezi) into ControlD |
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/the-wittch/ctrld-sync)
-[![CI](https://github.com/the-wittch/controld_sync/actions/workflows/controld-sync.yml/badge.svg)](https://github.com/the-wittch/controld_sync/actions/workflows/controld-sync.yml)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/the-wittch/controld-sync)
+[![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/controld-sync/controld-sync.yml?style=for-the-badge&label=CI&logo=github)](https://github.com/the-wittch/controld-sync/actions/workflows/controld-sync.yml)
 
 ## Docker
 
@@ -19,14 +19,14 @@
 |---------|-------------|
 | [ente-cli](https://github.com/the-wittch/ente-cli) | Ente CLI with cron support |
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Build & Push](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml/badge.svg?branch=main)](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/the-wittch/ente-cli)
+[![Build](https://img.shields.io/github/actions/workflow/status/the-wittch/ente-cli/docker.yml?branch=main&style=for-the-badge&label=Build%20%26%20Push&logo=github)](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml)
 
 ## Guides
 
 - [Control D Guide](https://the-wittch.github.io/Control-D-Guide/) – Beginner-friendly guide to DNS filtering with Control D
 
----   
+---
 
 ## Windows Projects
 
@@ -38,13 +38,14 @@
 | [PowerShell Modules](https://github.com/the-wittch/Powershell-Modules) | Custom PowerShell modules used across other scripts |
 | [O365 Utilities](https://github.com/the-wittch/Office-365-Utilities) | Office 365 scripts for cleaning up and fixing odd behavior |
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/) [![Toolbox](https://img.shields.io/github/actions/workflow/status/the-wittch/toolbox/release.yml?style=for-the-badge&label=Toolbox&logo=github)](https://github.com/the-wittch/toolbox/actions/workflows/release.yml)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
+[![Toolbox](https://img.shields.io/github/actions/workflow/status/the-wittch/toolbox/release.yml?style=for-the-badge&label=Toolbox&logo=github)](https://github.com/the-wittch/toolbox/actions/workflows/release.yml)
 
 ## PowerShell Projects
 
 | Project | Description |
 |---------|-------------|
-| [Wasp AssetCloud Module](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud) | Interact with Wasp AssetCloud via the command line |   
+| [Wasp AssetCloud Module](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud) | Interact with Wasp AssetCloud via the command line |
 
 ---
 
