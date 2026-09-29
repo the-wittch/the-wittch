@@ -6,21 +6,15 @@
 
 ## CTRLD Projects
 
-| Project | Description |
-|---------|-------------|
-| [CTRLD Sync](https://github.com/the-wittch/controld-sync) | Import JSON folders (Hagezi) into ControlD |
-
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/the-wittch/controld-sync)
-[![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/controld-sync/controld-sync.yml?style=for-the-badge&label=CI&logo=github)](https://github.com/the-wittch/controld-sync/actions/workflows/controld-sync.yml)
+| Project | Description | CI |
+|---------|-------------|-----|
+| [CTRLD Sync](https://github.com/the-wittch/controld-sync) | Import JSON folders (Hagezi) into ControlD | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/controld-sync/controld-sync.yml?style=flat-square&label=CI)](https://github.com/the-wittch/controld-sync/actions/workflows/controld-sync.yml) |
 
 ## Docker
 
-| Project | Description |
-|---------|-------------|
-| [ente-cli](https://github.com/the-wittch/ente-cli) | Ente CLI with cron support |
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/the-wittch/ente-cli)
-[![Build](https://img.shields.io/github/actions/workflow/status/the-wittch/ente-cli/docker.yml?branch=main&style=for-the-badge&label=Build%20%26%20Push&logo=github)](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml)
+| Project | Description | CI |
+|---------|-------------|-----|
+| [ente-cli](https://github.com/the-wittch/ente-cli) | Ente CLI with cron support | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/ente-cli/docker.yml?branch=main&style=flat-square&label=CI)](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml) |
 
 ## Guides
 
@@ -30,22 +24,15 @@
 
 ## Windows Projects
 
-| Project | Description |
-|---------|-------------|
-| [Toolbox](https://github.com/the-wittch/toolbox) | GUI to search LDAP/AD Computer Names and Description with quick RDP, LAPS support |
-| [SCCM Helpers](https://github.com/the-wittch/SCCM-Helpers) | Modules and scripts for working with SCCM |
-| [Windows Utilities](https://github.com/the-wittch/Windows-Utilities) | Windows and AD tools for sysadmins |
-| [PowerShell Modules](https://github.com/the-wittch/Powershell-Modules) | Custom PowerShell modules used across other scripts |
-| [O365 Utilities](https://github.com/the-wittch/Office-365-Utilities) | Office 365 scripts for cleaning up and fixing odd behavior |
-
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
-[![Toolbox](https://img.shields.io/github/actions/workflow/status/the-wittch/toolbox/release.yml?style=for-the-badge&label=Toolbox&logo=github)](https://github.com/the-wittch/toolbox/actions/workflows/release.yml)
+| Project | Description | CI |
+|---------|-------------|-----|
+| [Toolbox](https://github.com/the-wittch/toolbox) | WinUI help-desk utility for AD computer search, LAPS, and remote tools | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/toolbox/release.yml?style=flat-square&label=CI)](https://github.com/the-wittch/toolbox/actions/workflows/release.yml) |
 
 ## PowerShell Projects
 
-| Project | Description |
-|---------|-------------|
-| [Wasp AssetCloud Module](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud) | Interact with Wasp AssetCloud via the command line |
+| Project | Description | CI |
+|---------|-------------|-----|
+| [Wasp AssetCloud Module](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud) | Interact with Wasp AssetCloud via the command line | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/Wittch.PSModule.WaspAssetCloud/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud/actions/workflows/ci.yml) |
 
 ---
 
