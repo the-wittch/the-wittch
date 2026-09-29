@@ -38,7 +38,7 @@
 | [PowerShell Modules](https://github.com/the-wittch/Powershell-Modules) | Custom PowerShell modules used across other scripts |
 | [O365 Utilities](https://github.com/the-wittch/Office-365-Utilities) | Office 365 scripts for cleaning up and fixing odd behavior |
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)[![Toolbox Release](https://github.com/the-wittch/toolbox/actions/workflows/release.yml/badge.svg)](https://github.com/the-wittch/toolbox/actions/workflows/release.yml)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/) [![Toolbox](https://img.shields.io/github/actions/workflow/status/the-wittch/toolbox/release.yml?style=for-the-badge&label=Toolbox&logo=github)](https://github.com/the-wittch/toolbox/actions/workflows/release.yml)
 
 ## PowerShell Projects
 
