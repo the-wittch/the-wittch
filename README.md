@@ -7,45 +7,17 @@
 
 Systems and automation work across Linux, NixOS and Windows: reproducible desktops, DNS filtering, containers and PowerShell tooling.
 
-## Nix
-
-| Project | Description | CI |
-|---------|-------------|-----|
-| [Ephemeral Nix](https://github.com/the-wittch/ephemeral-nixos) | NixOS installer: encrypted btrfs with a root that's wiped on every boot, Plasma, GNOME or niri | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/ephemeral-nixos/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/the-wittch/ephemeral-nixos/actions/workflows/ci.yml) |
-| [Ephemeral Nix Config](https://github.com/the-wittch/ephemeral-nixos-config) | The full config to switch to after installing: Home Manager, Stylix theming, an app picker and VM-tested releases | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/ephemeral-nixos-config/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/the-wittch/ephemeral-nixos-config/actions/workflows/ci.yml) |
-
-## Control D
-
-| Project | Description | CI |
-|---------|-------------|-----|
-| [CTRLD Sync](https://github.com/the-wittch/controld-sync) | Import JSON folders (Hagezi) into Control D | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/controld-sync/controld-sync.yml?style=flat-square&label=CI)](https://github.com/the-wittch/controld-sync/actions/workflows/controld-sync.yml) |
-
-## Docker
-
-| Project | Description | CI |
-|---------|-------------|-----|
-| [ente-cli](https://github.com/the-wittch/ente-cli) | Ente CLI with cron support | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/ente-cli/docker.yml?branch=main&style=flat-square&label=CI)](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml) |
-
-## Windows
-
-| Project | Description | CI |
-|---------|-------------|-----|
-| [Toolbox](https://github.com/the-wittch/toolbox) | WinUI help-desk utility for AD computer search, LAPS and remote tools | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/toolbox/release.yml?style=flat-square&label=CI)](https://github.com/the-wittch/toolbox/actions/workflows/release.yml) |
-
-## PowerShell
-
-| Project | Description | CI |
-|---------|-------------|-----|
-| [Wasp AssetCloud Module](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud) | Work with Wasp AssetCloud from the command line | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/Wittch.PSModule.WaspAssetCloud/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud/actions/workflows/ci.yml) |
-| [PSForge](https://github.com/the-wittch/psforge) | Scaffold production-ready PowerShell modules | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/psforge/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/the-wittch/psforge/actions/workflows/ci.yml) |
-
-## Guides
-
-| Guide | Description | Site |
-|-------|-------------|-----|
-| [Control D Guide](https://the-wittch.github.io/Control-D-Guide/) | Beginner-friendly setup notes for Control D, filters and Hagezi | [![Pages](https://img.shields.io/github/actions/workflow/status/the-wittch/Control-D-Guide/pages/pages-build-deployment?style=flat-square&label=Pages)](https://github.com/the-wittch/Control-D-Guide/actions/workflows/pages/pages-build-deployment) |
+| Project | Area | Description | Status |
+|---------|------|-------------|--------|
+| [Ephemeral Nix](https://github.com/the-wittch/ephemeral-nixos) | Nix | NixOS installer: encrypted btrfs with a root that's wiped on every boot | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/ephemeral-nixos/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/the-wittch/ephemeral-nixos/actions/workflows/ci.yml) |
+| [Ephemeral Nix Config](https://github.com/the-wittch/ephemeral-nixos-config) | Nix | The full config after installing: Home Manager, Stylix theming, an app picker | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/ephemeral-nixos-config/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/the-wittch/ephemeral-nixos-config/actions/workflows/ci.yml) |
+| [Toolbox](https://github.com/the-wittch/toolbox) | Windows | WinUI help-desk utility for AD computer search, LAPS and remote tools | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/toolbox/release.yml?style=flat-square&label=CI)](https://github.com/the-wittch/toolbox/actions/workflows/release.yml) |
+| [Wasp AssetCloud Module](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud) | PowerShell | Work with Wasp AssetCloud from the command line | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/Wittch.PSModule.WaspAssetCloud/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud/actions/workflows/ci.yml) |
+| [PSForge](https://github.com/the-wittch/psforge) | PowerShell | Scaffold production-ready PowerShell modules | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/psforge/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/the-wittch/psforge/actions/workflows/ci.yml) |
+| [CTRLD Sync](https://github.com/the-wittch/controld-sync) | DNS | Import JSON folders (Hagezi) into Control D | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/controld-sync/controld-sync.yml?style=flat-square&label=CI)](https://github.com/the-wittch/controld-sync/actions/workflows/controld-sync.yml) |
+| [ente-cli](https://github.com/the-wittch/ente-cli) | Docker | Ente CLI with cron support | [![CI](https://img.shields.io/github/actions/workflow/status/the-wittch/ente-cli/docker.yml?branch=main&style=flat-square&label=CI)](https://github.com/the-wittch/ente-cli/actions/workflows/docker.yml) |
+| [Control D Guide](https://the-wittch.github.io/Control-D-Guide/) | Guide | Beginner-friendly setup notes for Control D, filters and Hagezi | [![Pages](https://img.shields.io/github/actions/workflow/status/the-wittch/Control-D-Guide/pages/pages-build-deployment?style=flat-square&label=Pages)](https://github.com/the-wittch/Control-D-Guide/actions/workflows/pages/pages-build-deployment) |
 
 ---
 
-> [!NOTE]
-> 🌸 **Shout-out** to [mrus](https://github.com/mrusme) at [マリウス](https://マリウス.com/) for all the inspiration and reigniting my curiosity for tech 🐇
+Thanks to [mrus](https://github.com/mrusme) at [マリウス](https://マリウス.com/) for the inspiration, and for reigniting my curiosity for tech.
